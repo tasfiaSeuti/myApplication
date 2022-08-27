@@ -21,7 +21,7 @@ The Weather App is an Android app made using Android Studio. It is created so th
 ### Description
 
 The user is shown the current weather based on the location (latitude and longitude) of their device. We can find the data of current weather of any place of the world
-using the api that we used, as well as the upcoming weather prediction. That deature is utilized in this application as well.
+using the api that we used, as well as the upcoming weather prediction of current place or searched places. That deature is utilized in this application as well.
 
 ### Features
 
@@ -32,3 +32,14 @@ using the api that we used, as well as the upcoming weather prediction. That dea
 
 ## Screenshots
 
+### Main Activity
+![Screenshot 2022-08-27 at 11 23 59 PM](https://user-images.githubusercontent.com/31209824/187041229-a66a970e-e94f-4656-abca-ddcfc433ab65.png)
+
+### Search Activity
+
+![Screenshot 2022-08-27 at 11 24 29 PM](https://user-images.githubusercontent.com/31209824/187041235-984eaacd-f6b1-466c-a2e8-5696eed16520.png)
+![Screenshot 2022-08-27 at 11 24 47 PM](https://user-images.githubusercontent.com/31209824/187041238-ce95f04c-ca04-4c62-b39b-b815f73aa833.png)
+
+### Upcoming Weather Activity
+
+![Screenshot 2022-08-27 at 11 25 18 PM](https://user-images.githubusercontent.com/31209824/187041250-0bf1ebe1-41fe-448e-8a00-97045e57a91b.png)
